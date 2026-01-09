@@ -38,7 +38,8 @@
 </p>
 
 <h4 align="center">My Social Media</h2>
-![https://instagram.com/mediiann_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/median-sori-n-91a449296/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![https://instagram.com/mediiann_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/median-sori-n-91a449296/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
