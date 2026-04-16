@@ -3,6 +3,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Haii+I'm+Median+Sori+N;&center=true&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Haii+I'm+Median+Sori+N;Information+System+Technology+Student;Code.+Create.+Innovate.;Turning+Ideas+Into+Impact;Never+Stop+Learning&center=true&size=24)
 
 
 <h4 align="center">Skills</h2>
