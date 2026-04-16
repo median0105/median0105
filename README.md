@@ -2,7 +2,9 @@
 ![banner](img/github-header-banner.png)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Haii+I'm+Median+Sori+N;Information+System+Technology+Student;Code.+Create.+Innovate.;Turning+Ideas+Into+Impact;Never+Stop+Learning&center=true&size=24)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Haii+I'm+Median+Sori+N;Information+System+Technology+Student;Code.+Create.+Innovate.;Turning+Ideas+Into+Impact;Never+Stop+Learning&center=true&width=700&height=50&size=28&duration=4000&pause=1000" />
+</p>
 
 
 <h4 align="center">Skills</h2>
